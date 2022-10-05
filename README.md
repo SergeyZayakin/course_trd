@@ -7,9 +7,9 @@
 ## 2.  Материалы к семинарским и практическим занятиям.  
 [Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)     
 ### Материалы   
-[Презентация про канбан, Trello и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)
-[О технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)    
-[Об Agile](https://skillbox.ru/media/management/chto_takoe_agile/)  
+[Презентация про канбан, Trello и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)    
+[О технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat) внешний ресурс    
+[Об Agile](https://skillbox.ru/media/management/chto_takoe_agile/) внешний ресурс      
     
 ## 3.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
 ### Основная литература
@@ -28,10 +28,10 @@
 * Чанг Э. М. Lean Impact. Инновации для масштабных социальных перемен  
 * [202Х тренды. Прогноз на новое десятилетие. Люди, мегаполисы, бизнес-модели от Кухни на районе](https://202x.local.kitchen/)    
 ### Инструменты
-* [Miro - инстумент для создания ментальных карт, схем и т.д.](https://miro.com/)
-* [Notion - система управления знаниями](https://www.notion.so/)
-* [Toggl  - простой тайм-трекер, для личного и командного учёта затрат времени](https://toggl.com/)
-* [Trello - инстумент для отслеживания реализации проекта](https://trello.com/)   
+* [Miro - инстумент для создания ментальных карт, схем и т.д.](https://miro.com/)внешний ресурс   
+* [Notion - система управления знаниями](https://www.notion.so/) внешний ресурс   
+* [Toggl  - простой тайм-трекер, для личного и командного учёта затрат времени](https://toggl.com/)внешний ресурс   
+* [Trello - инстумент для отслеживания реализации проекта](https://trello.com/) внешний ресурс   
  
  ## 4. Итоговый проект   
  [Задение для итогового проекта](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
