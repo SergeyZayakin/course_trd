@@ -28,7 +28,9 @@
 * Лидтка Д. и др. Дизайн-мышление. Способ изменить мир. Инновации в социальных проектах   
 * Чанг Э. М. Lean Impact. Инновации для масштабных социальных перемен  
 * [Royce W. Managing the Development of Large Software Systems. 1970.](https://web.archive.org/web/20160318002949/http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)      
-* [202Х тренды. Прогноз на новое десятилетие. Люди, мегаполисы, бизнес-модели от Кухни на районе](https://202x.local.kitchen/)    
+* [202Х тренды. Прогноз на новое десятилетие. Люди, мегаполисы, бизнес-модели от Кухни на районе](https://202x.local.kitchen/)   
+* [Варфел Т. Прототипирование. Практическое руководство](https://drive.google.com/file/d/1gOqzMRcZNvDmwKd-eeuCzh8ZN--sBHG_/view?usp=sharing)     
+* [Кесенбери У., Брукс К. Сторителлинг в проектировании интерфейсов. Как создавать истории, улучшающие дизайн](https://drive.google.com/file/d/17cPlSZZ14wztt4kURd3oPu3cKdVc3Bkx/view?usp=sharing)
 ### Инструменты
 * [Miro - инстумент для создания ментальных карт, схем и т.д.](https://miro.com/)   
 * [Notion - система управления знаниями](https://www.notion.so/)    
