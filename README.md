@@ -39,7 +39,7 @@
 * [Slack - мессенджер и рабочие пространство для больших и малых команд](https://slack.com/)   
  
  ## 4. Итоговый проект   
- [Задение для итогового проекта](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
+ [Задание для итогового проекта](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
   
      
          
