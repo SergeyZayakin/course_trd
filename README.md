@@ -5,8 +5,8 @@
 ### [Раздел 1 - Методологические основы туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%20%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A71%20%D1%821-3.pdf)    
    
 ## 2. Семинарские и практические занятия.  
-[Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
-[Матрица SWOT-анализа для заполнения](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/SWOT.pdf)
+* [Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
+* [Матрица SWOT-анализа для заполнения](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/SWOT.pdf)
 ### Материалы к занятиям  
 * [Презентация про канбан, Trello и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)    
 * [Ссылка на рабочие пространство Trello для практики](https://trello.com/invite/b/SLQDtaTz/8d351911f71f4a0d0bd47583db1f1ad3/практическое-занятие)    
