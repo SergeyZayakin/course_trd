@@ -9,6 +9,7 @@
 ### Материалы к занятиям  
 * [Презентация про канбан, Trello и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)    
 * [Ссылка на рабочие пространство Trello для практики](https://trello.com/invite/b/SLQDtaTz/8d351911f71f4a0d0bd47583db1f1ad3/практическое-занятие)    
+* [Статья о SWOT-анализе](https://vc.ru/marketing/501028-swot-analiz-tri-vida-i-polnyy-gayd-s-primerami)    
 * [Статья о технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)     
 * [Статья об Agile](https://skillbox.ru/media/management/chto_takoe_agile/) 
     
