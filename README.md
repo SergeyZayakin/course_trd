@@ -13,6 +13,7 @@
 * [Статья о SWOT-анализе](https://vc.ru/marketing/501028-swot-analiz-tri-vida-i-polnyy-gayd-s-primerami) и [ещё одна](https://marketolog.mts.ru/blog/kak-pravilno-ispolzovat-swot-analiz-i-ne-oshibatsya)    
 * [Статья о технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)     
 * [Статья об Agile](https://skillbox.ru/media/management/chto_takoe_agile/)   
+* [О CustDev](https://skillbox.ru/media/management/chego_khochet_potrebitel_obyasnyaem_customer_development/) и [тут о CustDev](https://vc.ru/marketing/270457-kasdev-intervyu)    
 * [О Customer Journey Map](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)     
     
 ## 3.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
