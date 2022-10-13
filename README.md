@@ -15,7 +15,8 @@
 * [Статья о технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)     
 * [Статья об Agile](https://skillbox.ru/media/management/chto_takoe_agile/)   
 * [О CustDev](https://skillbox.ru/media/management/chego_khochet_potrebitel_obyasnyaem_customer_development/) и [тут о CustDev](https://vc.ru/marketing/270457-kasdev-intervyu)    
-* [О Customer Journey Map](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)     
+* [О Customer Journey Map](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)    
+* [The 2022 Gartner Hype Cycle](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)   
     
 ## 3.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
 ### Основная литература
