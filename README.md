@@ -16,7 +16,7 @@
 * [Статья об Agile](https://skillbox.ru/media/management/chto_takoe_agile/)   
 * [О CustDev](https://skillbox.ru/media/management/chego_khochet_potrebitel_obyasnyaem_customer_development/) и [тут о CustDev](https://vc.ru/marketing/270457-kasdev-intervyu)    
 * [О Customer Journey Map](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)    
-* [The 2022 Gartner Hype Cycle](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies)   
+* [The 2022 Gartner Hype Cycle](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies) и [статья на русском](https://factory5.ai/news/gartner-hype-cycle-2022-chto-interesnogo-v-obnovlyennoy-krivoy-razvitiya-tekhnologiy/)      
     
 ## 3.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
 ### Основная литература
