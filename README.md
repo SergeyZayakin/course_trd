@@ -3,6 +3,8 @@
 ---    
 ## 1. Презентации [лекций](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8) -- добавляю после завершения блока лекций по разделу.   
 ### [Раздел 1 - Методологические основы туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%20%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A71%20%D1%821-3.pdf)    
+### [Раздел 2 - Этапы проектирования туристско-рекреационного продукта](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A72%20%D1%824-9.pdf)     
+### [Раздел 3 - Ресурсное обеспечение процесса туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A73%20%D1%8210-11.pdf)
    
 ## 2. Семинарские и практические занятия.  
 * [Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
