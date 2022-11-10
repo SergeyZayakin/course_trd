@@ -61,4 +61,9 @@
 ---     
 ### Самореклама   
 * Телеграмм канал [`Я у мамы аналитик`](https://t.me/momsanalytics) - идеи, книги, полезности по теме анализа данных и смежные темы   
-* [`База источников данных`](https://star-origami-326.notion.site/6bccaa6957c6468a8ce1e9285e246103?v=e03d6dda45094bf6a247b898afda9e73) - cайты, на которых можно найти статистику, результаты исследований и опросов, рейтингов
+* [`База источников данных`](https://star-origami-326.notion.site/6bccaa6957c6468a8ce1e9285e246103?v=e03d6dda45094bf6a247b898afda9e73) - cайты, на которых можно найти статистику, результаты исследований и опросов, рейтингов     
+    
+---   
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
