@@ -2,27 +2,27 @@
 # Материалы по курсу "Туристско-рекреационное проектирование"  
 ---    
 ## I. Презентации [лекций](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8)   
-### [Раздел 1 - Методологические основы туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%20%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A71%20%D1%821-3.pdf)    
-### [Раздел 2 - Этапы проектирования туристско-рекреационного продукта](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A72%20%D1%824-9.pdf)     
-### [Раздел 3 - Ресурсное обеспечение процесса туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A73%20%D1%8210-11.pdf)    
-### [Раздел 4 - Проектирования отдельных видов туристско-рекреационных продуктов](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A74%20%D1%8212.pdf)      
+### [`Раздел 1` - Методологические основы туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%20%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A71%20%D1%821-3.pdf)    
+### [`Раздел 2` - Этапы проектирования туристско-рекреационного продукта](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A72%20%D1%824-9.pdf)     
+### [`Раздел 3` - Ресурсное обеспечение процесса туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A73%20%D1%8210-11.pdf)    
+### [`Раздел 4` - Проектирования отдельных видов туристско-рекреационных продуктов](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A74%20%D1%8212.pdf)      
    
 ## II. Семинары и практические занятия  
-* [Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
-* [Матрица SWOT-анализа для заполнения](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/SWOT.pdf)   
-* [Trello - инструмент для ведения проекта](https://trello.com)    
-* [Miro - инструмент для создания декомпозиции задач проекта и сетевой диаграммы](https://miro.com/)    
+* [`Задания для практических занятий`](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
+* [Матрица `SWOT`-анализа для заполнения](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/SWOT.pdf)   
+* [`Trello` - инструмент для ведения проекта](https://trello.com)    
+* [`Miro` - инструмент для создания декомпозиции задач проекта и сетевой диаграммы](https://miro.com/)    
 ### Материалы к занятиям   
-* [Матрица BCG - как ей пользоваться](http://powerbranding.ru/biznes-analiz/bcg/primer-postroeniya/)     
-* [Презентация про канбан, Trello и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)        
-* [Статья о SWOT-анализе](https://vc.ru/marketing/501028-swot-analiz-tri-vida-i-polnyy-gayd-s-primerami) и [ещё одна](https://marketolog.mts.ru/blog/kak-pravilno-ispolzovat-swot-analiz-i-ne-oshibatsya)    
-* [Статья о технике SCAMPER](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)     
-* [Статья об Agile](https://skillbox.ru/media/management/chto_takoe_agile/)   
-* [О CustDev](https://skillbox.ru/media/management/chego_khochet_potrebitel_obyasnyaem_customer_development/) и [тут о CustDev](https://vc.ru/marketing/270457-kasdev-intervyu)    
-* [О Customer Journey Map](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)    
-* [The 2022 Gartner Hype Cycle](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies) и [статья на русском](https://factory5.ai/news/gartner-hype-cycle-2022-chto-interesnogo-v-obnovlyennoy-krivoy-razvitiya-tekhnologiy/)   
-* [Выпуск подкаста "Запуск завтра" о продакт-менеджменте](https://podcasts.google.com/feed/aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M/episode/YTFiMGIxMmMtZjkyNi00Mzk3LTk4MjQtNzhmM2FhZDA2ZjE4?sa=X&ved=0CAUQkfYCahcKEwiYjpqR-_D6AhUAAAAAHQAAAAAQbQ)   
-* [Исследования Gartner по product management](https://www.gartner.com/en/product-management/research/all-research)    
+* [`Матрица BCG` - как ей пользоваться](http://powerbranding.ru/biznes-analiz/bcg/primer-postroeniya/)     
+* [Презентация про `канбан`, `Trello` и котиков](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/Trello.pdf)        
+* [Статья о `SWOT`-анализе](https://vc.ru/marketing/501028-swot-analiz-tri-vida-i-polnyy-gayd-s-primerami) и [ещё одна](https://marketolog.mts.ru/blog/kak-pravilno-ispolzovat-swot-analiz-i-ne-oshibatsya)    
+* [Статья о технике `SCAMPER`](https://vc.ru/life/174700-tehnika-scamper-kak-reshat-problemy-v-biznese-dazhe-esli-sovershenno-ne-umeesh-eto-delat)     
+* [Статья об `Agile`](https://skillbox.ru/media/management/chto_takoe_agile/)   
+* [О `CustDev`](https://skillbox.ru/media/management/chego_khochet_potrebitel_obyasnyaem_customer_development/) и [тут о CustDev](https://vc.ru/marketing/270457-kasdev-intervyu)    
+* [О C`ustomer Journey Map`](https://netology.ru/blog/sostavlyaem-cjm), а также [тут](https://vc.ru/marketing/96029-instrukciya-po-sostavleniyu-customer-journey-map-cjm) и [тут](https://habr.com/ru/post/656097/)    
+* [The 2022 `Gartner Hype Cycle`](https://www.gartner.com/en/articles/what-s-new-in-the-2022-gartner-hype-cycle-for-emerging-technologies) и [статья на русском](https://factory5.ai/news/gartner-hype-cycle-2022-chto-interesnogo-v-obnovlyennoy-krivoy-razvitiya-tekhnologiy/)   
+* [Выпуск подкаста "Запуск завтра" о `продакт-менеджменте`](https://podcasts.google.com/feed/aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M/episode/YTFiMGIxMmMtZjkyNi00Mzk3LTk4MjQtNzhmM2FhZDA2ZjE4?sa=X&ved=0CAUQkfYCahcKEwiYjpqR-_D6AhUAAAAAHQAAAAAQbQ)   
+* [Исследования Gartner о `product management`](https://www.gartner.com/en/product-management/research/all-research)    
     
 ## III.  Полезные материалы, книги -- пополняю список по мере прохождения тем   
 ### Основная литература
