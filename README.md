@@ -41,7 +41,7 @@
 * `Лидтка Д.` и др. Дизайн-мышление. Способ изменить мир. Инновации в социальных проектах   
 * `Чанг Э. М.` Lean Impact. Инновации для масштабных социальных перемен  
 * [`Royce W.` Managing the Development of Large Software Systems. 1970.](https://web.archive.org/web/20160318002949/http://www.cs.umd.edu/class/spring2003/cmsc838p/Process/waterfall.pdf)      
-* [202Х тренды. Прогноз на новое десятилетие. Люди, мегаполисы, бизнес-модели от Кухни на районе](https://202x.local.kitchen/)   
+* [`202Х тренды.` Прогноз на новое десятилетие. Люди, мегаполисы, бизнес-модели от Кухни на районе](https://202x.local.kitchen/)   
 * [`Варфел Т.` Прототипирование. Практическое руководство](https://drive.google.com/file/d/1gOqzMRcZNvDmwKd-eeuCzh8ZN--sBHG_/view?usp=sharing) !!!Книга в формате fb2!!!     
 * [`Кесенбери У.`, Брукс К. Сторителлинг в проектировании интерфейсов. Как создавать истории, улучшающие дизайн](https://drive.google.com/file/d/17cPlSZZ14wztt4kURd3oPu3cKdVc3Bkx/view?usp=sharing) !!!Книга в формате fb2!!!
 ### Инструменты
@@ -55,14 +55,14 @@
 * [Курс по основам языка програмирования Python от Яндекса](https://academy.yandex.ru/handbook/python) бесплатно     
  
  ## IV. Итоговый проект   
- [Задание для итогового проекта](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
+ [`Задание для итогового проекта`](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
   
      
          
             
 ---     
 ### Самореклама   
-* [Портфолио проектов](https://github.com/SergeyZayakin/portfolio/blob/main/README.md)    
+* [`Портфолио проектов`](https://github.com/SergeyZayakin/portfolio/blob/main/README.md)    
 * Телеграмм канал [`Я у мамы аналитик`](https://t.me/momsanalytics) - идеи, книги, полезности по теме анализа данных и смежные темы   
 * [`База источников данных`](https://star-origami-326.notion.site/6bccaa6957c6468a8ce1e9285e246103?v=e03d6dda45094bf6a247b898afda9e73) - cайты, на которых можно найти статистику, результаты исследований и опросов, рейтингов    
     
