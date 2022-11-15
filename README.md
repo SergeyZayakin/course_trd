@@ -1,12 +1,13 @@
 ---     
 # Материалы по курсу "Туристско-рекреационное проектирование"  
 ---    
-## 1. Презентации [лекций](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8) -- добавляю после завершения блока лекций по разделу.   
+## I. Презентации [лекций](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8) -- добавляю после завершения блока лекций по разделу.   
 ### [Раздел 1 - Методологические основы туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%20%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A71%20%D1%821-3.pdf)    
 ### [Раздел 2 - Этапы проектирования туристско-рекреационного продукта](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%20%D0%BF%D1%80%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A72%20%D1%824-9.pdf)     
-### [Раздел 3 - Ресурсное обеспечение процесса туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A73%20%D1%8210-11.pdf)
+### [Раздел 3 - Ресурсное обеспечение процесса туристско-рекреационного проектирования](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A73%20%D1%8210-11.pdf)    
+### [Раздел 4 - Проектирования отдельных видов туристско-рекреационных продуктов](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D0%B8/%D0%A2%D1%83%D1%80%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%BE-%D1%80%D0%B5%D0%BA%D1%80%D0%B5%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A74%20%D1%8212.pdf)      
    
-## 2. Семинарские и практические занятия.  
+## II. Семинарские и практические занятия.  
 * [Задания для практических занятий](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%BE%D0%B2.pdf)    
 * [Матрица SWOT-анализа для заполнения](https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0/SWOT.pdf)
 ### Материалы к занятиям   
@@ -22,7 +23,7 @@
 * [Выпуск подкаста "Запуск завтра" о продакт-менеджменте](https://podcasts.google.com/feed/aHR0cHM6Ly96YXB1c2t6YXZ0cmEubGlic3luLmNvbS9yc3M/episode/YTFiMGIxMmMtZjkyNi00Mzk3LTk4MjQtNzhmM2FhZDA2ZjE4?sa=X&ved=0CAUQkfYCahcKEwiYjpqR-_D6AhUAAAAAHQAAAAAQbQ)   
 * [Исследования Gartner по product management](https://www.gartner.com/en/product-management/research/all-research)    
     
-## 3.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
+## III.  Полезные материалы, книги -- пополняю список по мере прохождения тем.   
 ### Основная литература
 * `Ньютон Р.` Управление проектами от А до Я. – М.: Альпина Паблишер, 2018   
 * `Фливбьорг Б.`, `Брузелиус Н.`, `Ротенгаттер В.` Мегапроекты и риски. Анатомия амбиций – М.: Альпина Паблишер, 2020   
@@ -52,7 +53,7 @@
 * [Курс по прикладному анализу данных в социальных науках от Яндекса](https://academy.yandex.ru/handbook/data-analysis) бесплатно    
 * [Курс по основам языка програмирования Python от Яндекса](https://academy.yandex.ru/handbook/python) бесплатно     
  
- ## 4. Итоговый проект   
+ ## IV. Итоговый проект   
  [Задание для итогового проекта](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)
   
      
