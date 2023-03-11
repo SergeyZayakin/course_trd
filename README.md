@@ -59,7 +59,7 @@
  [`Задание для итогового проекта`](https://github.com/SergeyZayakin/course_trd/tree/main/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82)   
      
  ## V. Контрольная работа для групп заочного отделения    
- ['Ссылка на контрольную работу'] (https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.doc)    
+ [`Ссылка на контрольную работу`] (https://github.com/SergeyZayakin/course_trd/blob/main/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.doc)    
  Задание выложенов формате word -- поэтому тут файл не откроется, нажмите Download или View raw для скачивания на странице с файлом
     
 ## VI. Пробный тест   
